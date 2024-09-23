@@ -1,0 +1,7 @@
+graceids,Days since GW,GW MJD,90% Area (deg2),50% Area (deg2),Distance (Gpc),FAR (years/FA),Mass (M_sol),trigger,comments
+S240923ct,0,60577,523,91,4.81,41000000.0,162,True,
+S240922df,1,60576,487,121,1.17,2.3e+16,45,False,time > 5400?
+S240920dw,3,60574,189,54,0.95,3.3e+43,48,False,time > 5400?
+S240920bz,4,60573,545,122,1.66,100.0,63,True,
+S240919bn,5,60572,16,4,1.71,790000000000.0,61,True,
+S240915b,9,60568,18,2,0.87,100.0,38,False,south
