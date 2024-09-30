@@ -1,10 +1,10 @@
-| graceids   |   Days since GW |   GW MJD |   90% Area (deg2) |   50% Area (deg2) |   Distance (Gpc) |   FAR (years/FA) |   Mass (M_sol) | gcnids              |
-|:-----------|----------------:|---------:|------------------:|------------------:|-----------------:|-----------------:|---------------:|:--------------------|
-| S240930aa  |               1 |    60583 |               457 |                88 |             1.4  |          1e+11   |             51 | 2024-09-30T03:59:59 |
-| S240924a   |               7 |    60577 |               660 |               168 |             3.82 |         12.9     |            119 | 2024-09-24T00:03:16 |
-| S240923ct  |               7 |    60577 |               216 |                45 |             4.02 |          4.1e+07 |            137 | 2024-09-23T20:40:06 |
-| S240922df  |               8 |    60576 |                97 |                17 |             1.18 |          2.3e+16 |             46 | 2024-09-22T14:21:06 |
-| S240921cw  |               9 |    60575 |               471 |                89 |             0.87 |         39.5     |             37 | 2024-09-21T20:18:35 |
-| S240920dw  |              10 |    60574 |               135 |                45 |             0.98 |          3.3e+43 |             49 | 2024-09-20T12:40:24 |
-| S240920bz  |              11 |    60573 |               349 |                73 |             1.37 |        100       |             54 | 2024-09-20T07:34:24 |
-| S240919bn  |              12 |    60572 |                16 |                 4 |             1.71 |          7.9e+11 |             61 | 2024-09-19T06:15:59 |
+| graceids                                                          |   GW MJD |   90% Area (deg2) |   Distance (Gpc) |   FAR (years/FA) |   Mass (M_sol) | gcnids                                                                      | triggered   |
+|:------------------------------------------------------------------|---------:|------------------:|-----------------:|-----------------:|---------------:|:----------------------------------------------------------------------------|:------------|
+| [S240930aa](https://gracedb.ligo.org/superevents/S240930aa/view/) |    60583 |               457 |             1.4  |          1e+11   |             51 | [2024-09-30T04:00:00](https://fritz.science/gcn_events/2024-09-30T04:00:00) | False       |
+| [S240924a](https://gracedb.ligo.org/superevents/S240924a/view/)   |    60577 |               660 |             3.82 |         12.9     |            119 | [2024-09-24T00:03:17](https://fritz.science/gcn_events/2024-09-24T00:03:17) | False       |
+| [S240923ct](https://gracedb.ligo.org/superevents/S240923ct/view/) |    60577 |               216 |             4.02 |          4.1e+07 |            137 | [2024-09-23T20:40:06](https://fritz.science/gcn_events/2024-09-23T20:40:06) | True        |
+| [S240922df](https://gracedb.ligo.org/superevents/S240922df/view/) |    60576 |                97 |             1.18 |          2.3e+16 |             46 | [2024-09-22T14:21:06](https://fritz.science/gcn_events/2024-09-22T14:21:06) | False       |
+| [S240921cw](https://gracedb.ligo.org/superevents/S240921cw/view/) |    60575 |               471 |             0.87 |         39.5     |             37 | [2024-09-21T20:18:36](https://fritz.science/gcn_events/2024-09-21T20:18:36) | False       |
+| [S240920dw](https://gracedb.ligo.org/superevents/S240920dw/view/) |    60574 |               135 |             0.98 |          3.3e+43 |             49 | [2024-09-20T12:40:25](https://fritz.science/gcn_events/2024-09-20T12:40:25) | False       |
+| [S240920bz](https://gracedb.ligo.org/superevents/S240920bz/view/) |    60573 |               349 |             1.37 |        100       |             54 | [2024-09-20T07:34:24](https://fritz.science/gcn_events/2024-09-20T07:34:24) | True        |
+| [S240919bn](https://gracedb.ligo.org/superevents/S240919bn/view/) |    60572 |                16 |             1.71 |          7.9e+11 |             61 | [2024-09-19T06:15:59](https://fritz.science/gcn_events/2024-09-19T06:15:59) | True        |
