@@ -11,5 +11,5 @@ Document binary black hole merger follow-up
 - O4b - all O4b events
 - O4b_masses - histogram of O4b masses
 - O4b_priority - O4b events with mass>60, a90<100, FAR > 10 years
-- error_trigger = any events with inconsitencies in trigger checking function including any missed triggers or unintended triggers
+- error_trigger - any events with inconsitencies in trigger checking function including any missed triggers or unintended triggers
 - trigger - all events that have been triggered on
