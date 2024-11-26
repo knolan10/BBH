@@ -46,10 +46,10 @@
 | [S240908bs](https://gracedb.ligo.org/superevents/S240908bs/view/) |    60561 |                74 |             3.35 |        100       |            118 | predates trigger      |
 | [S240907cg](https://gracedb.ligo.org/superevents/S240907cg/view/) |    60561 |              1064 |             4.33 |         34.7     |            148 | predates trigger      |
 | [S240919bn](https://gracedb.ligo.org/superevents/S240919bn/view/) |    60572 |                16 |             1.71 |          7.9e+11 |             61 | triggered             |
-| [S240917cb](https://gracedb.ligo.org/superevents/S240917cb/view/) |    60571 |              8642 |             6.66 |          0.6     |            132 | no plan               |
-| [S240916ar](https://gracedb.ligo.org/superevents/S240916ar/view/) |    60570 |               569 |             1.27 |          1.9     |             39 | no valid plan         |
+| [S240917cb](https://gracedb.ligo.org/superevents/S240917cb/view/) |    60571 |              8642 |             6.66 |          0.6     |            132 | not triggered         |
+| [S240916ar](https://gracedb.ligo.org/superevents/S240916ar/view/) |    60570 |               569 |             1.27 |          1.9     |             39 | not triggered         |
 | [S240922df](https://gracedb.ligo.org/superevents/S240922df/view/) |    60576 |                97 |             1.18 |          2.3e+16 |             46 | not triggered         |
-| [S240921cw](https://gracedb.ligo.org/superevents/S240921cw/view/) |    60575 |               471 |             0.87 |         39.5     |             36 | no valid plan         |
+| [S240921cw](https://gracedb.ligo.org/superevents/S240921cw/view/) |    60575 |               471 |             0.87 |         39.5     |             36 | not triggered         |
 | [S240920dw](https://gracedb.ligo.org/superevents/S240920dw/view/) |    60574 |               135 |             0.98 |          3.3e+43 |             52 | not triggered         |
 | [S240920bz](https://gracedb.ligo.org/superevents/S240920bz/view/) |    60573 |               349 |             1.37 |        100       |             53 | bad trigger           |
 | [S240930aa](https://gracedb.ligo.org/superevents/S240930aa/view/) |    60583 |               457 |             1.4  |          1e+11   |             51 | bad trigger           |
@@ -61,15 +61,17 @@
 | [S241011k](https://gracedb.ligo.org/superevents/S241011k/view/)   |    60595 |                72 |             0.21 |          1.3e+26 |             12 | bad trigger           |
 | [S241009em](https://gracedb.ligo.org/superevents/S241009em/view/) |    60593 |                25 |             2.78 |         11.2     |             93 | triggered             |
 | [S241009an](https://gracedb.ligo.org/superevents/S241009an/view/) |    60592 |               299 |             1    |      16000       |             39 | not triggered         |
-| [S241009l](https://gracedb.ligo.org/superevents/S241009l/view/)   |    60592 |              1595 |             5.54 |          1       |            118 | no plan               |
-| [S241007bw](https://gracedb.ligo.org/superevents/S241007bw/view/) |    60590 |               823 |             3.92 |          1.9     |             95 | no valid plan         |
+| [S241009l](https://gracedb.ligo.org/superevents/S241009l/view/)   |    60592 |              1595 |             5.54 |          1       |            118 | not triggered         |
+| [S241007bw](https://gracedb.ligo.org/superevents/S241007bw/view/) |    60590 |               823 |             3.92 |          1.9     |             95 | not triggered         |
 | [S241102cy](https://gracedb.ligo.org/superevents/S241102cy/view/) |    60617 |               834 |             3.44 |          2.1     |             86 | not triggered         |
 | [S241102br](https://gracedb.ligo.org/superevents/S241102br/view/) |    60617 |                28 |             0.36 |          2.8e+33 |             20 | not triggered         |
-| [S241101ee](https://gracedb.ligo.org/superevents/S241101ee/view/) |    60616 |              7669 |             2.16 |       2300       |             78 | no plan               |
+| [S241101ee](https://gracedb.ligo.org/superevents/S241101ee/view/) |    60616 |              7669 |             2.16 |       2300       |             78 | not triggered         |
 | [S241114y](https://gracedb.ligo.org/superevents/S241114y/view/)   |    60628 |               152 |             2.51 |     350000       |             92 | triggered             |
-| [S241113p](https://gracedb.ligo.org/superevents/S241113p/view/)   |    60628 |             11825 |             1.32 |          2.2e+06 |             49 | no plan               |
+| [S241113p](https://gracedb.ligo.org/superevents/S241113p/view/)   |    60628 |             11825 |             1.32 |          2.2e+06 |             49 | not triggered         |
 | [S241111bn](https://gracedb.ligo.org/superevents/S241111bn/view/) |    60625 |               424 |             1.39 |          4.5e+21 |             55 | not triggered         |
-| [S241110br](https://gracedb.ligo.org/superevents/S241110br/view/) |    60625 |               102 |             0.75 |          6.8     |             31 | no valid plan         |
-| [S241109p](https://gracedb.ligo.org/superevents/S241109p/view/)   |    60623 |              1760 |             2.28 |        524.5     |             81 | no plan               |
-| [S241116cq](https://gracedb.ligo.org/superevents/S241116cq/view/) |    60631 |              2291 |             5.6  |          4.5     |            142 | no plan               |
-| [S241114bi](https://gracedb.ligo.org/superevents/S241114bi/view/) |    60629 |             10125 |             0.75 |     180000       |             30 | no plan               |
+| [S241110br](https://gracedb.ligo.org/superevents/S241110br/view/) |    60625 |               102 |             0.75 |          6.8     |             31 | not triggered         |
+| [S241109p](https://gracedb.ligo.org/superevents/S241109p/view/)   |    60623 |              1760 |             2.28 |        524.5     |             81 | not triggered         |
+| [S241116cq](https://gracedb.ligo.org/superevents/S241116cq/view/) |    60631 |              2291 |             5.6  |          4.5     |            142 | not triggered         |
+| [S241114bi](https://gracedb.ligo.org/superevents/S241114bi/view/) |    60629 |             10125 |             0.75 |     180000       |             30 | not triggered         |
+| [S241125n](https://gracedb.ligo.org/superevents/S241125n/view/)   |    60639 |              1956 |             4.47 |         33.3     |            151 | triggered             |
+| [S241122a](https://gracedb.ligo.org/superevents/S241122a/view/)   |    60637 |             28549 |             2.27 |          0.5     |             51 | not triggered         |
